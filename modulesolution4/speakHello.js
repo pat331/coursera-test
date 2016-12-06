@@ -9,6 +9,3 @@
 	window.helloSpeaker = helloSpeaker;
 
 })(window);
-
-
-	
